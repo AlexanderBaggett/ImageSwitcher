@@ -1,0 +1,8 @@
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\ImageSwitcher.exe.config
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\ImageSwitcher.XML
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\ImageSwitcher.exe
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\ImageSwitcher.pdb
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\FSharp.Core.dll
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\bin\Debug\FSharp.Core.xml
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\obj\Debug\ImageSwitcher.exe
+C:\Users\Alexa_000\OneDrive\Projects\ImageSwitcher\ImageSwitcher\obj\Debug\ImageSwitcher.pdb
